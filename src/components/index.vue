@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <div v-if="msg">
-    <code>A ha hôm nay {{ msg }} như con đĩ í i ì i í i i ì à há</code>
+    <code>A ha hôm nay {{ msg }} như con đĩ í i ì i í i i ì iii</code>
     <br>
     <code>ĐĨ {{ msg | capitalize }}</code>
     </div>
